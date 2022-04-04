@@ -1,0 +1,20 @@
+              nnnnnnnn
+             nnnnmnnnnnnnnnnn
+          nnnnnnnnnnnnnmmmmmmmm
+        nnnnnnnnmmmmmmmmmmmmmmmmmm
+       nnnnnnnnmmmmmmmmmmmmmmmmmmM
+      nnnnnnmmmmmmmmmmmmmmmmmmmmMMMM~~
+   ~~~nnnnnnmmmmmmmmmmmmmmmmmmmMMMMM~~~~
+ ~~~~~~nmmmmmmmmmmmmmmmmmmmmmmmMMMMM ~~~~
+~~~  nnnnmmmmmmmmmmmmmmmmmmmmmMMMMMM   ~~
+~~~   nnnmmmmmmmmmmmmmmmmmmmMMMMMMMM~~~~~
+~~~~~ nnnnmmmmmmmmmmmmmmmmMMMMMM~~~~~~~
+  ~~~~~~~~~mmmmmmmmmmmmmMM~~~~~~~~~
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~MM
+         m~~~~~~~~~~~~~~~~~MMMMMMM
+          mmmmmmmMMMMMMMMMMMMMMMMM
+            MMMMMMMMMMMMMMMMMMMM
+                  MMMMMMMMMMM
+-----------------------------------------
+       Welcome to Methuselah OS !
+-----------------------------------------
