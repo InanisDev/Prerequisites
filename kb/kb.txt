@@ -16,5 +16,5 @@
             MMMMMMMMMMMMMMMMMMMM
                   MMMMMMMMMMM
 -----------------------------------------
-       Welcome to Methuselah OS !
+       Welcome to Methuselah OS!
 -----------------------------------------
