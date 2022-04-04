@@ -5,7 +5,7 @@ void print_image(FILE *fptr);
  
 int main(void)
 {
-    char *filename = "sl.txt";
+    char *filename = "kb.txt";
     FILE *fptr = NULL;
  
     if((fptr = fopen(filename,"r")) == NULL)
